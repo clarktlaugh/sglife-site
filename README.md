@@ -1,2 +1,4 @@
 # sglife-site
-s-g.life site
+
+Web site content for https://s-g.life
+
