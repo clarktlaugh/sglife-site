@@ -26962,7 +26962,17 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-logo-image-1 {max-width: 328px; max-height: 328px}
 .u-header .u-menu-1 {margin: -63px 0 27px auto}
 .u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0; font-weight: 700; text-transform: uppercase}
-.u-header .u-nav-7 {font-size: 1.25rem} 
+.u-header .u-nav-2 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-3 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-4 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-5 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-6 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-7 {font-size: 1.25rem}
+.u-header .u-nav-8 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-9 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-10 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-11 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none}
+.u-header .u-nav-12 {box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4); background-image: none} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 64px; height: 32px}
 .u-header .u-menu-1 {width: auto; margin-top: -95px} }
 
